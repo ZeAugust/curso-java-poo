@@ -1,0 +1,10 @@
+package entities;
+
+public class Empolyee {
+	private int id;
+	private String name;
+	private double salary;
+	
+	public Empl
+}
+
